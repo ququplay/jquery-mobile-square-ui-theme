@@ -1,21 +1,21 @@
-## jQuery Mobile Flat-UI Theme
+## jQuery Mobile Square-UI Theme
 
-Theme for jQuery Mobile based [Flat-UI](http://designmodo.com/demo/flat-ui/).
+Theme for jQuery Mobile based on [Square-UI](http://dribbble.com/shots/948195-Square-UI-Kit-Free-Download-Now/attachments/107177/).
 
 ## Demo
 
-[http://ququplay.github.com/jquery-mobile-flat-ui-theme](http://ququplay.github.com/jquery-mobile-flat-ui-theme)
+[http://ququplay.github.com/jquery-mobile-square-ui-theme](http://ququplay.github.com/jquery-mobile-square-ui-theme)
 
 ## Usage
 
-Copy `jquery.mobile.flatui.css`, fonts and images from `generated` folder to your project.
-Include link to `jquery.mobile.flatui.css`
+Copy `jquery.mobile.square.css`, fonts and images from `generated` folder to your project.
+Include link to `jquery.mobile.sqaure.css`
 
 ```html
- <link rel="stylesheet" type="text/css" href="jquery.mobile.flatui.css" />
+ <link rel="stylesheet" type="text/css" href="jquery.mobile.sqaure.css" />
 ```
 
-![jQuery-Mobile-Flat-UI-Theme](http://oi46.tinypic.com/212i9dz.jpg)
+![jQuery-Mobile-Square-UI-Theme](http://oi50.tinypic.com/347gwuq.jpg)
 
 
 ##License:
