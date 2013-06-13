@@ -9,10 +9,10 @@ Theme for jQuery Mobile based on [Square-UI](http://dribbble.com/shots/948195-Sq
 ## Usage
 
 Copy `jquery.mobile.square.css`, fonts and images from `generated` folder to your project.
-Include link to `jquery.mobile.sqaure.css`
+Include link to `jquery.mobile.square.css`
 
 ```html
- <link rel="stylesheet" type="text/css" href="jquery.mobile.sqaure.css" />
+ <link rel="stylesheet" type="text/css" href="jquery.mobile.square.css" />
 ```
 
 ![jQuery-Mobile-Square-UI-Theme](http://oi50.tinypic.com/347gwuq.jpg)
