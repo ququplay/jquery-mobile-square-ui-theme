@@ -24,6 +24,8 @@ Include link to `jquery.mobile.square.css`
  <link rel="stylesheet" type="text/css" href="jquery.mobile.square.css" />
 ```
 
+![jQuery-Mobile-Square-UI-Theme](http://oi50.tinypic.com/347gwuq.jpg)
+
 ## Setup
 
 In order to add a new swatch or colors you can add a new stylus file under `src/stylus/swatches/` and run [grunt](http://gruntjs.com/) from your command line.
