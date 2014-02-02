@@ -2,6 +2,9 @@
 
 Theme for jQuery Mobile based on [Square-UI](http://dribbble.com/shots/948195-Square-UI-Kit-Free-Download-Now/attachments/107177/).
 
+
+![jQuery-Mobile-Square-UI-Theme](http://oi50.tinypic.com/347gwuq.jpg)
+
 ## Demo
 
 [http://ququplay.github.com/jquery-mobile-square-ui-theme](http://ququplay.github.com/jquery-mobile-square-ui-theme)
@@ -24,7 +27,6 @@ Include link to `jquery.mobile.square.css`
  <link rel="stylesheet" type="text/css" href="jquery.mobile.square.css" />
 ```
 
-![jQuery-Mobile-Square-UI-Theme](http://oi50.tinypic.com/347gwuq.jpg)
 
 ## Setup
 
