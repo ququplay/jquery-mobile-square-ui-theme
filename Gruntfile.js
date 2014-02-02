@@ -1,9 +1,18 @@
 module.exports = function (grunt) {
 
+  var cssFiles =  [
+    'src/css/jquery.mobile.internal-png.css',
+    'src/css/jquery.mobile.structure.css',
+    'src/css/jquery.mobile.structure.custom.css',
+    'src/css/jquery.mobile.theme.css',
+    'src/css/swatches.css',
+    'src/css/fonts.css'
+  ];
+
   grunt.initConfig({
     concat: {
       css: {
-        src: ['src/css/fonts.css', 'src/css/swatches.css', 'src/css/global.css', 'src/css/jqm.structure.css'],
+        src: cssFiles,
         dest: 'generated/jquery.mobile.squareui.css'
       }
     },
@@ -38,7 +47,7 @@ module.exports = function (grunt) {
         tasks: ['stylus', 'concat', 'copy', 'cssmin']
       },
       css: {
-        files: ['src/css/global.css', 'src/css/fonts.css', 'src/css/jqm.structure.css'],
+        files: cssFiles,
         tasks: ['concat', 'copy', 'cssmin']
       }
     }
@@ -51,4 +60,5 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-cssmin');
 
   grunt.registerTask('default', ['stylus', 'concat', 'copy', 'cssmin']);
+
 };
