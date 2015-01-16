@@ -1,3 +1,7 @@
+## Update (01/16/2015)
+
+### Please check our new [Premium Theme](https://github.com/ququplay/jquery-mobile-ios8-theme). We think you will like it.
+
 ## jQuery Mobile Square-UI Theme
 
 Theme for jQuery Mobile based on [Square-UI](http://dribbble.com/shots/948195-Square-UI-Kit-Free-Download-Now/attachments/107177/).
