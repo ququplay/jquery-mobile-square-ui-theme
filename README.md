@@ -1,6 +1,6 @@
 ## Update (01/16/2015)
 
-### Please check our new [Premium Theme](http://store.ququplay.com). We think you will like it.
+### Please check our new [Premium Theme](http://store.ququplay.com). We think you will like them.
 
 ## jQuery Mobile Square-UI Theme
 
